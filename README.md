@@ -20,3 +20,9 @@
 
 > `npm run build` -> `npm run serve` ->
 > `http://localhost:9000/`으로 빌드가 되며 페이지내 콘텐츠가 이미 생성되어있다.
+
+## 모든 메모는 여기에
+
+- [Gatsby에 대해서 알아보기](./memos/0.Gatsby.md)
+- [Gatsby프레임워크의 기능 및 규칙](./memos/1.Framwork.md)
+- [GraphQL에 대해서 알아보기](./memos/2.GraphQL.md)
