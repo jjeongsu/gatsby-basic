@@ -16,7 +16,7 @@
 
 > `npm run develop` ->
 > `http://localhost:8000/`사이트이며, 개발모드에서 구동중
-> cra와 동일, 짧은 html과 약간의 js
+> cra와 동일
 
 > `npm run build` -> `npm run serve` ->
-> `http://localhost:9000/`으로 빌드가 되며 소스코드의 내용은 많다.(화면을 꽉 채우고도 한참 남은 스크롤)
+> `http://localhost:9000/`으로 빌드가 되며 페이지내 콘텐츠가 이미 생성되어있다.
